@@ -3,7 +3,7 @@ a simple Clojure program for inverting a binary tree
 
 ## usage
 
-## `(node value left-child right-child)`
+### `(node value left-child right-child)`
 
 you can create a new node in a tree by calling the `node` function with the following arguments:
 - `v` (the value of the node) 
@@ -31,7 +31,7 @@ this is going to be represented as the following array:
 [1 [2 [4 nil nil] [5 nil nil]] [3 [6 nil nil] [7 nil nil]]]
 ```
 
-## `(invert-tree tree)`
+### `(invert-tree tree)`
 
 you can invert a binary tree by calling the `invert-tree` function with one argument (a tree, which consists nested nodes).
 
