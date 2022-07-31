@@ -1,2 +1,4 @@
 # binary-tree-clj
-simple Clojure program for inverting a binary tree
+a simple Clojure program for inverting a binary tree
+
+## usage
